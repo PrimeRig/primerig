@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👋 Welcome to the PrimeRig Team's GitHub Profile! 
 
-![PrimeRig Team GIF](http://www.aboshop.gr/)
+![PrimeRig Team GIF](https://giphy.com/gifs/stay-tuned-abo-aboshop-5nSIhPtqyXqEjnjNGJ)
 
 ### 🚀 About Us
 
