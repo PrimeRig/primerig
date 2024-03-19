@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ## 👋 Welcome to the PrimeRig Team's GitHub Profile! 
 
-![PrimeRig Team GIF](https://giphy.com/gifs/stay-tuned-abo-aboshop-5nSIhPtqyXqEjnjNGJ)
+![PrimeRig Team GIF](https://media.giphy.com/media/9J4wQGX8pyFRULuvk1/giphy.gif)
+
+
 
 ### 🚀 About Us
 
