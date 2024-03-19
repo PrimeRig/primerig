@@ -15,21 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 About PrimeRig Team
-
-We are PrimeRig Team, a passionate group of frontend developers diving into the world of Flutter. Our goal is to craft immersive and user-friendly interfaces that elevate the experience of browsing and purchasing vehicles. With a keen interest in augmented reality (AR), we're excited to explore its potential within the realm of vehicle shopping.
-
-#### 🚗 Our Focus
-
-In our journey, we aim to blend creativity with functionality, leveraging Flutter's versatile framework to bring innovative solutions to life. Whether it's designing sleek UI components or integrating cutting-edge AR features, we thrive on pushing boundaries and delivering seamless experiences.
-
-#### 🌟 Collaboration and Growth
-
-Beyond coding, we're driven by a curiosity to learn and grow continuously. We believe in the power of collaboration and are always eager to connect with fellow developers and enthusiasts. Together, let's build exciting projects and reshape the future of vehicle shopping through technology!
-
-#### 📫 Let's Connect!
-
-Feel free to reach out for collaboration opportunities, brainstorming sessions, or simply to geek out over the latest tech trends. Let's embark on this journey together and create something truly remarkable!
 
 
 ## 👋 Welcome to the PrimeRig Team's GitHub Profile! 
@@ -54,7 +39,8 @@ We're not just about pixels and code; we're about crafting experiences that make
 
 ### 📫 Get in Touch!
 
-Have an idea for a collaboration? Want to chat about Flutter, AR, or anything else under the sun? Shoot us an email at [team@primerig.com](mailto:team@primerig.com)! We're always excited to connect with fellow devs and enthusiasts.
+Have an idea for a collaboration? Want to chat about Flutter, AR, or anything else under the sun? Shoot us an email at [team@primerig.com](mailto:mh6927883@gmail.com)! We're always excited to connect with fellow devs and enthusiasts.
+
 
 ### 🚗 Let's Drive Innovation!
 
