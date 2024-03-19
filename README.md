@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![PrimeRig Team GIF](https://media.giphy.com/media/9J4wQGX8pyFRULuvk1/giphy.gif)
 
+![PrimeRig Team GIF](https://giphy.com/embed/MTbya3k32GED2EyPEX.gif)
+
 <iframe src="https://giphy.com/embed/MTbya3k32GED2EyPEX" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Tuningkind-tuning-staytuned-tuned-MTbya3k32GED2EyPEX">via GIPHY</a></p>
 
 
