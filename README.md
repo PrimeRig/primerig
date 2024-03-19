@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ![PrimeRig Team GIF](https://media.giphy.com/media/9J4wQGX8pyFRULuvk1/giphy.gif)
 
-![PrimeRig Team GIF](https://giphy.com/embed/MTbya3k32GED2EyPEX)
 
 
 ### 🚀 About Us
