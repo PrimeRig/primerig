@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 
 ![PrimeRig Team GIF](https://media.giphy.com/media/9J4wQGX8pyFRULuvk1/giphy.gif)
 
-![PrimeRig Team GIF](https://giphy.com/embed/MTbya3k32GED2EyPEX.gif)
-
-<iframe src="https://giphy.com/embed/MTbya3k32GED2EyPEX" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Tuningkind-tuning-staytuned-tuned-MTbya3k32GED2EyPEX">via GIPHY</a></p>
-
-
+![PrimeRig Team GIF](https://giphy.com/embed/MTbya3k32GED2EyPEX)
 
 
 ### 🚀 About Us
@@ -36,13 +32,6 @@ Hey there! We're the PrimeRig Team, a crew of dedicated frontend magicians on a 
 
 We're not just about pixels and code; we're about crafting experiences that make jaws drop and hearts race. From sleek UI designs to mind-bending AR features, we're here to push the boundaries of what's possible in vehicle shopping.
 
-### 💼 Tips & Tricks for Collaboration
-
-- **Clear Communication:** We believe in the power of open and transparent communication. Feel free to drop us a message or open an issue - we're all ears!
-  
-- **Clean Code:** We're big fans of clean, readable code. Don't be shy about contributing or suggesting improvements - together, we can make our codebase even better!
-  
-- **Continuous Learning:** The tech world moves fast, and so do we! Let's keep each other updated on the latest trends, tools, and techniques to stay ahead of the curve.
 
 ### 📫 Get in Touch!
 
